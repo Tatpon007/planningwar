@@ -15,7 +15,7 @@ import javax.imageio.ImageIO;
  */
 public class swordman extends soldier {
     public static String class_car = "sword man" ;
-    public static int acttack = 50 ;
+    public static int acttack = 40 ;
     public static int walk = 4 ;
     public Image image[]  = new Image[12];
     public Image mainimage ; 

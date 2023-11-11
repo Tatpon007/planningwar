@@ -60,7 +60,7 @@ public void setcoins(int coins){
         g.drawString("castle of tream " +  tream,0,40) ; 
         g.drawString("coin of castle  "  + coisn,0,60) ;
         g.drawString("coin will add after endturn +1 ",0,80) ;
-        g.drawString("2 coin to Big swordman ,1 coin to swordman", 0, 100);
+        g.drawString("3 coin to Big swordman ,1 coin to swordman", 0, 100);
     
     }
  public boolean get_ability_summon(){

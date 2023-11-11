@@ -405,7 +405,7 @@ public class GamePanel extends JPanel {
                     }
                 });
                 }
-                if(sol.get(chack).getcoins() >= 2){
+                if(sol.get(chack).getcoins() >= 3){
                 statusbar_panel.add(Summon_bigsword) ;
                 Summon_bigsword.setBounds(50, 20, 100, 50);
                 Summon_bigsword.addActionListener(new ActionListener(){
